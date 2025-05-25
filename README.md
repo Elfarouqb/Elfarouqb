@@ -35,9 +35,9 @@ I'm Elfarouq, a software development student at Hogeschool Rotterdam. I enjoy bu
 
 Here are a few projects I’ve worked on:
 
-- [**WebDevelopment**](https://github.com/Elfarouqb/OfficeCalendar): A comprehensive supply chain and warehouse management system.
+- [**WebDevelopment**](https://github.com/Elfarouqb/Office_Calendar): A comprehensive supply chain and warehouse management system.
 - [**ProjectB**](https://github.com/Elfarouqb/ProjectB): My first programming project (forked and extended).
-- [**Analytics dashboard**](https://github.com/Elfarouqb/Processing-and-Tools): An interactive dashboard that visualizes website traffic and performance metrics using data analytics.
+- [**Analytics dashboard**](https://github.com/Elfarouqb/): An interactive dashboard that visualizes website traffic and performance metrics using data analytics.
 
 ---
 
