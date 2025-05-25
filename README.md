@@ -11,18 +11,21 @@ I'm Elfarouq, a software development student at Hogeschool Rotterdam. I enjoy bu
 - 🔭 Currently working on: **CargoHub**, a global distribution and warehouse management system.
 - 🌱 Currently learning: ASP.NET Core, Entity Framework, and advanced data structures.
 - 💬 Ask me about: C#, .NET, APIs, software design, and Git.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/your-link) (replace with your real link)
-- ⚡ Fun fact: I speak Dutch, English, and a bit of German 🇳🇱🇬🇧🇩🇪
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/elfarouq-bakr-924322269/)
+- ⚡ Fun fact: I speak Dutch, English, and a little bit of German 🇳🇱🇬🇧🇩🇪
 
 ---
 
 ## 🛠️ Skills & Tools
 
-- **Languages**: C#, JavaScript, Python, SQL
-- **Frameworks**: ASP.NET Core, Entity Framework, Blazor
+- **Languages**:
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)- **Frameworks**: ASP.NET Core, Entity Framework
 - **Tools**: Git, GitHub, Visual Studio, Postman, Docker
-- **Databases**: SQL Server, SQLite
-- **Other**: UML, Agile, Planning Poker, REST APIs
+- **Databases**: SQL Server, PostgreSQL
+- **Other**: UML, Agile, Planning Poker, REST APIs, Webscraping, SCRUM
 
 ---
 
@@ -32,7 +35,7 @@ Here are a few projects I’ve worked on:
 
 - [**Team-1---Cargohub**](https://github.com/Elfarouqb/Team-1---Cargohub): A comprehensive supply chain and warehouse management system.
 - [**ProjectB**](https://github.com/Elfarouqb/ProjectB): My first programming project (forked and extended).
-- [**Processing-and-Tools**](https://github.com/Elfarouqb/Processing-and-Tools): Exercises in Software Construction and Tools.
+- [**Analytics dashboard**](https://github.com/Elfarouqb/Processing-and-Tools): An interactive dashboard that visualizes website traffic and performance metrics using data analytics.
 
 ---
 
