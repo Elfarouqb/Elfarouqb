@@ -38,8 +38,6 @@ Here are a few projects I’ve worked on:
 
 ## 📈 GitHub Stats
 
-![Elfarouq's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Elfarouqb&show_icons=true&theme=radical)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Elfarouqb&layout=compact&theme=radical)
 
 ---
