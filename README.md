@@ -12,7 +12,7 @@ I'm Elfarouq, a software development student at Hogeschool Rotterdam. I enjoy bu
 - 🌱 Currently learning: ASP.NET Core, Entity Framework, and advanced data structures.
 - 💬 Ask me about: C#, .NET, APIs, software design, and Git.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/elfarouq-bakr-924322269/)
-- ⚡ Fun fact: I speak Dutch, English, and a little bit of German 🇳🇱🇬🇧🇩🇪
+- ⚡ Fun fact: I speak Dutch, English, and a little bit of German & Arabic
 
 ---
 
